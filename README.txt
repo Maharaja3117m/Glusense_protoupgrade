@@ -11,7 +11,7 @@ Included upgrades:
 
 HOW TO PUBLISH TO GITHUB PAGES
 1. Download and unzip this archive.
-2. Open https://github.com/Maharaja3117m/Glusense.proto
+2. Open https://github.com/Maharaja3117m/Glusense.protoupgrade
 3. Replace the matching root HTML files, css/style.css and js/app.js with the versions in this folder.
 4. Commit the changes to the main branch.
 5. Wait for GitHub Pages to redeploy, then refresh your website.
